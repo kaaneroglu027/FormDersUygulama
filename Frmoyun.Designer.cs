@@ -70,18 +70,18 @@
             this.lblsure.AutoSize = true;
             this.lblsure.Location = new System.Drawing.Point(33, 22);
             this.lblsure.Name = "lblsure";
-            this.lblsure.Size = new System.Drawing.Size(35, 13);
+            this.lblsure.Size = new System.Drawing.Size(29, 13);
             this.lblsure.TabIndex = 1;
-            this.lblsure.Text = "label2";
+            this.lblsure.Text = "Sure";
             // 
             // lblskor
             // 
             this.lblskor.AutoSize = true;
             this.lblskor.Location = new System.Drawing.Point(42, 86);
             this.lblskor.Name = "lblskor";
-            this.lblskor.Size = new System.Drawing.Size(13, 13);
+            this.lblskor.Size = new System.Drawing.Size(29, 13);
             this.lblskor.TabIndex = 0;
-            this.lblskor.Text = "0";
+            this.lblskor.Text = "Skor";
             // 
             // tmrsure
             // 
