@@ -63,8 +63,8 @@ namespace FormDersUygulama
 
                 DialogResult result = new DialogResult();
 
-                result = MessageBox.Show($"Oyun Bitti! \nSkorunuz: {lblskor.Text} Puan\n" +
-                "Yeniden Oynamak İster Misiniz ?", "ÇIKIŞ", MessageBoxButtons.YesNo);
+                result = MessageBox.Show($"Oynunuz bitti! \nSkorunuz: {lblskor.Text} Puan\n" +
+                "Tekrar oynamak istermisiniz ?", "ÇIKIŞ", MessageBoxButtons.YesNo);
 
                 if (result == DialogResult.No)
                 {
